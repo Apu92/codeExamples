@@ -1,9 +1,7 @@
 package at.samplecode.main;
 
 /**
- * 
- * @author mab (marcel.ablasser@student.tugraz.at)
- *
+ * @author MaAb
  */
 public class DemonstrationPMD { // NOPMD by mab on 29.10.18 15:56
 
